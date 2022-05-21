@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
-Implemented design of an administrator panel in Angular 12.
+Implemented the design of an administrator panel in Angular 12 for hospitals.
 
 ## Development server
 
